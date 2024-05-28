@@ -206,6 +206,7 @@ if __name__ == "__main__":
                 label="Dataset Language",
                 value="en",
                 choices=[
+                    "vi",
                     "en",
                     "es",
                     "fr",
@@ -493,6 +494,7 @@ if __name__ == "__main__":
                         label="Language",
                         value="en",
                         choices=[
+                            "vi",
                             "en",
                             "es",
                             "fr",
